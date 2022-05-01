@@ -1,0 +1,1 @@
+# Hajimin.github.io
