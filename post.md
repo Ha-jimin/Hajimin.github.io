@@ -1,6 +1,6 @@
-title: "github.io 블로그 첫 글"
+## github.io 블로그 첫 글
 
-excerpt: "github.io 블로그 첫 글 작성해봅니다."
+**언제나 어디서나 활기차고 힘내기**
 
 categories:
 
