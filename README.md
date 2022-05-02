@@ -1,3 +1,3 @@
-## Welcome to Hajimin blog
+## 하지민의 블로그에 오신 것을 환영합니다
 
-You can use the [post](https://ha-jimin.github.io/post) to maintain and preview the content for your website in Markdown files.
+여기를 누르세요 [post](https://ha-jimin.github.io/post)
