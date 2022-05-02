@@ -1,6 +1,6 @@
 ## Welcome to Hajimin blog
 
-You can use the [post](https://github.com/Ha-jimin/Hajimin.github.io/post.md) to maintain and preview the content for your website in Markdown files.
+You can use the [post](https://github.com/Ha-jimin/Hajimin.github.io/blob/main/post.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
